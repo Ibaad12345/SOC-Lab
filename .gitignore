@@ -1,0 +1,19 @@
+# Docker & Volumes
+volumes/
+.dockerignore
+
+# Linux & OS Metadata
+*~
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+*.local
+
+# Secrets, Certificates & Keys
+*.pem
+*.key
+*.crt
+.env
+*.log
